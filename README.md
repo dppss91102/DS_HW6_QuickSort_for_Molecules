@@ -8,7 +8,7 @@
     - A name string (e.g., "caffeine")
     - A formula string (e.g., "C8H10N4O2")
     - Molecular mass (can be zero or non-zero)
-        - A **zero** means that your program needs to calculate the mass (Use this [periodic table](http://lms.nthu.edu.tw/sys/read_attach.php?id=1491104) and **double** is recommended while calculating the mass )
+        - A **zero** means that your program needs to calculate the mass (Use this [periodic table](PeriodicTable_V2.csv) and **double** is recommended while calculating the mass )
         - A **non-zero** value means the mass is given 
  
 
